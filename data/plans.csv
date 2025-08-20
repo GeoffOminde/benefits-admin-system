@@ -1,0 +1,5 @@
+plan_id,name,type,coverage,employee_premium_base,employer_premium,deductible,dep_factor,match_rate,max_match_pct,wellness_credit
+HMO_BASIC,HMO Basic,Health,HMO,120,300,2000,0.20,,,0
+PPO_PLUS,PPO Plus,Health,PPO,220,420,1000,0.22,,,0
+RET_401K,401(k),Retirement,, , , , ,0.50,0.05,0
+WELLNESS,Wellness Program,Wellness,,0,20, , , , ,20

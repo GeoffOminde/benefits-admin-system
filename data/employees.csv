@@ -1,0 +1,6 @@
+employee_id,name,department,salary,hire_date,status,age,num_dependents
+1001,Employee 1,Engineering,80000,2024-02-15,Full-time,34,1
+1002,Employee 2,HR,60000,2023-09-01,Full-time,29,0
+1003,Employee 3,Finance,120000,2023-05-20,Full-time,45,3
+1004,Employee 4,Sales,45000,2024-11-10,Part-time,26,0
+1005,Employee 5,Operations,60000,2024-07-05,Full-time,37,2
